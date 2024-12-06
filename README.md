@@ -76,8 +76,7 @@ This project is based on the dataset provided by:
 ---
 
 This project aims to contribute to the early diagnosis of neurodegenerative disorders, leveraging machine learning to enhance non-invasive diagnostic methods.
-<<<<<<< HEAD
     
-=======
+
     
 >>>>>>> d541ba5b9f938f2933cfdfefbae0e631bacd963e
