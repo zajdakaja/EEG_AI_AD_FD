@@ -1,0 +1,30 @@
+# Ignoruj dane wrażliwe
+env/
+*.json
+
+# Ignoruj pliki tymczasowe
+*.pyc
+__pycache__/
+*.log
+
+# Ignoruj pliki wynikowe
+plots/
+eda_outputs/
+results/
+
+# Ignoruj pliki konfiguracyjne specyficzne dla środowiska
+*.env
+*.cfg
+
+# Ignoruj systemowe pliki IDE/edytora
+.vscode/
+.idea/
+.DS_Store
+
+# Ignoruj zależności wirtualnego środowiska
+venv/
+
+# Dodatkowe skrypty
+hyperparameter_optimization.py
+create_project_structure.py
+readme.py
