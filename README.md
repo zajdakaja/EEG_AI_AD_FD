@@ -1,4 +1,3 @@
-
 # EEG-based Early Detection of Alzheimer's Disease (AD) and Frontotemporal Dementia (FTD)
 
 ## Overview
@@ -77,6 +76,3 @@ This project is based on the dataset provided by:
 
 This project aims to contribute to the early diagnosis of neurodegenerative disorders, leveraging machine learning to enhance non-invasive diagnostic methods.
     
-
-    
->>>>>>> d541ba5b9f938f2933cfdfefbae0e631bacd963e
