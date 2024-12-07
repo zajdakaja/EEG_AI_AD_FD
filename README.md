@@ -68,9 +68,10 @@ This project is based on the dataset provided by:
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Run preprocessing: `python scripts/preprocessing.py`.
-4. Train models: `python scripts/model_development.py`.
-5. Evaluate models: `python scripts/model_evaluation.py`.
-6. Generate the final report: `python scripts/final_report.py`.
+4. Features with GenAI`python scripts/feature_engineering_genai.py`.
+5. Train models: `python scripts/model_development.py`.
+6. Evaluate models: `python scripts/model_evaluation.py`.
+7. Generate the final report: `python scripts/final_report.py`.
 
 ---
 
